@@ -1,0 +1,6 @@
+{
+  "name": "Noor Screen",
+  "description": "A screen-time restriction app that blocks social media after a timer expires until you read Quran Ayats and pass a quiz.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
